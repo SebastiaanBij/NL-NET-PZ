@@ -1,0 +1,5 @@
+name=NL-NET [Server]
+poster=poster.jpg
+id=NLNETSERVER
+description=The server side mod for the official NL-NET Project Zomboid Server.
+url=https://github.com/SebastiaanBij/NL-NET-PZ/tree/server
